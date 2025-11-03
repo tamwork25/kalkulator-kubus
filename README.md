@@ -1,8 +1,8 @@
-# kalkulator volume kubus
-pemrogram sederhana untuk menghitung volume kubus menggunakan bahas C++
+# kalkulator kubus
+pemrogram sederhana untuk menghitung volume dan luas kubus menggunakan bahas C++
 #rumus
 volume = s*s*s
 #input 
 sisi
 #output
-volume kubus
+volume dan luas kubus
